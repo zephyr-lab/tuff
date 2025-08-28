@@ -1,7 +1,3 @@
 # tuff
 
-kllaskd
-
-jdkshdkshd
-
-eisprung
+Zeigt Basis Funktionen und eigene Funktionen an
